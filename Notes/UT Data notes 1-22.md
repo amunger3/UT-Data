@@ -1,6 +1,8 @@
 # UT Data Notes 1/22
 
-## Note
+## Start of Excel Unit
 
-- 1
-- 2
+- Need to actually get Excel somehow
+- Perhaps for now Google Sheets will suffice
+- For now using Excel on Danna's Mac.
+- Need to pull Git to it
