@@ -6,3 +6,9 @@
 - Perhaps for now Google Sheets will suffice
 - For now using Excel on Danna's Mac.
 - Need to pull Git to it
+- [Excel Licenses (GroupOn)](https://www.groupon.com/deals/license-tom-llc-1)
+
+## PowerBI
+
+- Downloaded
+- Not sure about license
