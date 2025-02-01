@@ -3,3 +3,4 @@
 ## Excel Unit
 
 - Using Danna's computer for Excel
+- Got PowerBI working
