@@ -12,3 +12,8 @@
 ## VSCode Shortcuts
 
 - ctrl-k v (Open Markdown Preview)
+
+## Contacts
+
+- `jeff.lund@quickstart.com`
+- Calendy?
