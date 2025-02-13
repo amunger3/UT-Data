@@ -31,3 +31,4 @@
     Review Applied Steps on the right
     Look for steps that might be filtering out data
     Try removing and re-adding problematic steps
+- Next 3 weeks: PowerBI
