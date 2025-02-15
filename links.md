@@ -8,6 +8,7 @@
 - [PowerBI Intro Docs](https://monashdatafluency.github.io/Power_BI/powerbi-intro.pdf)
 - [PowerBI Official Docs](https://learn.microsoft.com/en-us/power-bi/)
 - [PowerShell User Docs](https://github.com/ab14jain/PowerShell)
+- [DAX Syntax Cheatsheets](https://thedataschool.co.uk/rosh-khan/dax-cheat-sheet-for-beginners/)
 
 ## VSCode Shortcuts
 
