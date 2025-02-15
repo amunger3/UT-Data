@@ -69,11 +69,11 @@
 - Ignore "Excel Report" in project guidelines and you can instead upload a PowerBI file.
 - This is your dataset, no wrong or right answers, just focused on providing deliverables and "how your mind works".
 
-## 2/8 Notes
+## 2/8
 
 - PowerBI `DENSE_RANK` guarantees tie-breaks and doesn't skip ranks.
 
-## 2/12 Notes
+## 2/12
 
 - 2/12 Notes
 - Avg Penalty per Inspector = DIVIDE(SUM('2012_Workplace_Fatalities_by_State'[Penalties FY 2013 (Average $)]),SUM('2012_Workplace_Fatalities_by_State'[Inspectors]),0)
@@ -108,7 +108,7 @@
     Try removing and re-adding problematic steps
 - Next 3 weeks: PowerBI
 
-## 2/15 Notes
+## 2/15
 
 - Real-world stuff next week
 - Calculated columns (row-by-row) (any table)
