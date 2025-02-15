@@ -115,3 +115,4 @@
 - Calculated measures
 - We haven't touched the word Swift yet?
 - [DAX Practice Site](https://dax.do/)
+- [DAX Guide](https://dax.guide/)
