@@ -75,10 +75,9 @@
 
 ## 2/12
 
-- 2/12 Notes
-- Avg Penalty per Inspector = DIVIDE(SUM('2012_Workplace_Fatalities_by_State'[Penalties FY 2013 (Average $)]),SUM('2012_Workplace_Fatalities_by_State'[Inspectors]),0)
-- if(inspector="", 0, 1/2)
-- if(isblank(inspect) || value 0, 0, 1/2)
+- `Avg Penalty per Inspector = DIVIDE(SUM('2012_Workplace_Fatalities_by_State'[Penalties FY 2013 (Average $)]),SUM('2012_Workplace_Fatalities_by_State'[Inspectors]),0)`
+- `if(inspector="", 0, 1/2)`
+- `if(isblank(inspect) || value 0, 0, 1/2)`
 - Let me help you troubleshoot this issue. Several common causes can make Power BI show blank data during transformation. - Let's go through the potential solutions:
     Check Source Data Connection
     Verify the data source is still accessible
@@ -116,3 +115,8 @@
 - We haven't touched the word Swift yet?
 - [DAX Practice Site](https://dax.do/)
 - [DAX Guide](https://dax.guide/)
+
+## 2/19
+
+- ToastMasters (classes) for public speaking
+- Put your best resume together and throw it at companies
