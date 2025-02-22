@@ -120,3 +120,11 @@
 
 - ToastMasters (classes) for public speaking
 - Put your best resume together and throw it at companies
+- Other job website - "PostJobFree"
+
+## 2/22
+
+- Python soon, maybe figure out a [conda](https://www.anaconda.com/download) distro
+- Another link to explore, [hex.tech](https://hex.tech/)
+- Going back to PowerBI sample dataset
+- Making a PowerBI Dashboard with Cohort Data Set
