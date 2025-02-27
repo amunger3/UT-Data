@@ -133,3 +133,39 @@
 
 - PowerBI today, 3/5 is SQL
 - Next project is combination of PowerBI and SQL
+- `YearMonth = FORMAT(Plans[Datekey], "yyyymm")`
+- `discount = IF( and( Plans[YearMonth] >= 200701, Plans[YearMonth] <= 200706), Plans[PricePerItem] * 0.45, IF( and( Plans[YearMonth] >= 200707, Plans[YearMonth] <= 200712), Plans[PricePerItem] * 0.35, IF( and( Plans[YearMonth] >= 200801, Plans[YearMonth] <= 200810), Plans[PricePerItem] * 0.25,IF( and( Plans[YearMonth] >= 200811, Plans[YearMonth] <= 200812), Plans[PricePerItem] * 0.08,IF( and( Plans[YearMonth] >= 200904, Plans[YearMonth] <= 200908), Plans[PricePerItem] * 0.60, IF( and( Plans[YearMonth] >= 200912, Plans[YearMonth] <= 200912), Plans[PricePerItem] * 0.75,  0))))))`
+- <code>Discounted Price = 
+VAR CurrentYear = [Year]
+VAR CurrentMonth = [Month]
+VAR OriginalPrice = [PricePerItem]
+RETURN
+    SWITCH(
+        TRUE(),
+        -- 45% discount for 2007, months 1-6
+        CurrentYear = 2007 && CurrentMonth >= 1 && CurrentMonth <= 6,
+        OriginalPrice * 0.45,  -- 100% - 45% = 55%
+        
+        -- 35% discount for 2007, months 7-12
+        CurrentYear = 2007 && CurrentMonth >= 7 && CurrentMonth <= 12,
+        OriginalPrice * 0.35,  -- 100% - 35% = 65%
+        
+        -- 25% discount for 2008, months 1-10
+        CurrentYear = 2008 && CurrentMonth >= 1 && CurrentMonth <= 10,
+        OriginalPrice * 0.25,  -- 100% - 25% = 75%
+        
+        -- 8% discount for 2008, months 11-12
+        CurrentYear = 2008 && CurrentMonth >= 11 && CurrentMonth <= 12,
+        OriginalPrice * 0.08,  -- 100% - 8% = 92%
+        
+        -- 60% discount for 2009, months 4-8
+        CurrentYear = 2009 && CurrentMonth >= 4 && CurrentMonth <= 8,
+        OriginalPrice * .60,   -- 100% - 60% = 40%
+        
+        -- 75% discount for 2009, month 12 only
+        CurrentYear = 2009 && CurrentMonth = 12,
+        OriginalPrice * 0.75,  -- 100% - 75% = 25%
+        
+        -- Default: no discount
+        OriginalPrice
+    )</code>
