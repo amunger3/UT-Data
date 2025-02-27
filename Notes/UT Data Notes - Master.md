@@ -128,3 +128,8 @@
 - Another link to explore, [hex.tech](https://hex.tech/)
 - Going back to PowerBI sample dataset
 - Making a PowerBI Dashboard with Cohort Data Set
+
+## 2/26
+
+- PowerBI today, 3/5 is SQL
+- Next project is combination of PowerBI and SQL
