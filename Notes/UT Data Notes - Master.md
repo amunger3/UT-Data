@@ -173,3 +173,4 @@ RETURN
 ```
 
 - Add AI skills to resume
+- PowerBI Quiz in class Saturday
