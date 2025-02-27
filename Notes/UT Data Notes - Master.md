@@ -135,7 +135,8 @@
 - Next project is combination of PowerBI and SQL
 - `YearMonth = FORMAT(Plans[Datekey], "yyyymm")`
 - `discount = IF( and( Plans[YearMonth] >= 200701, Plans[YearMonth] <= 200706), Plans[PricePerItem] * 0.45, IF( and( Plans[YearMonth] >= 200707, Plans[YearMonth] <= 200712), Plans[PricePerItem] * 0.35, IF( and( Plans[YearMonth] >= 200801, Plans[YearMonth] <= 200810), Plans[PricePerItem] * 0.25,IF( and( Plans[YearMonth] >= 200811, Plans[YearMonth] <= 200812), Plans[PricePerItem] * 0.08,IF( and( Plans[YearMonth] >= 200904, Plans[YearMonth] <= 200908), Plans[PricePerItem] * 0.60, IF( and( Plans[YearMonth] >= 200912, Plans[YearMonth] <= 200912), Plans[PricePerItem] * 0.75,  0))))))`
-- <code>Discounted Price = 
+
+```Discounted Price =
 VAR CurrentYear = [Year]
 VAR CurrentMonth = [Month]
 VAR OriginalPrice = [PricePerItem]
@@ -168,4 +169,7 @@ RETURN
         
         -- Default: no discount
         OriginalPrice
-    )</code>
+    )
+```
+
+- Add AI skills to resume
