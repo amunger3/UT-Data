@@ -174,3 +174,9 @@ RETURN
 
 - Add AI skills to resume
 - PowerBI Quiz in class Saturday
+
+## 3/1
+
+- Links for Jeff:
+- Email: [jeff.lund@quickstart.com](mailto:jeff.lund@gmail.com)
+- Calendar appointment: [Appointment](https://calendly.com/jeff-lund/datascience)
