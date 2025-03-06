@@ -9,6 +9,9 @@
 - [PowerBI Official Docs](https://learn.microsoft.com/en-us/power-bi/)
 - [PowerShell User Docs](https://github.com/ab14jain/PowerShell)
 - [DAX Syntax Cheatsheets](https://thedataschool.co.uk/rosh-khan/dax-cheat-sheet-for-beginners/)
+- [Data Analyst Salaries](https://builtin.com/salaries)
+- [VSCode Wokspace Settings](https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/)
+- [PowerBI SWITCH Statement](https://www.datacamp.com/tutorial/switch-in-dax-for-power-bi)
 
 ## VSCode Shortcuts
 

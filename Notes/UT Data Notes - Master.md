@@ -180,3 +180,12 @@ RETURN
 - Links for Jeff:
 - Email: [jeff.lund@quickstart.com](mailto:jeff.lund@gmail.com)
 - Calendar appointment: [Appointment](https://calendly.com/jeff-lund/datascience)
+- Installed SQL Server and Tools for next week
+
+## 3/5
+
+- There is supposed to be an SQL module that I cannot see yet (hopefully resolved by Saturday)
+- SQL course starts 3/12
+- Some sort of assessment on Saturday?
+- PowerBI today, SQL Saturday 3/8
+- One extra day of SQL, one extra day of PowerBI
