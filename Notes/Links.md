@@ -12,6 +12,7 @@
 - [Data Analyst Salaries](https://builtin.com/salaries)
 - [VSCode Wokspace Settings](https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/)
 - [PowerBI SWITCH Statement](https://www.datacamp.com/tutorial/switch-in-dax-for-power-bi)
+- [Microsoft Copilot Article](https://www.techtarget.com/searchdatamanagement/tip/How-to-use-Microsoft-Copilot-in-Power-BI)
 
 ## VSCode Shortcuts
 
