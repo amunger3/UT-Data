@@ -177,9 +177,8 @@ RETURN
 
 ## 3/1
 
-- Links for Jeff:
-- Email: [jeff.lund@quickstart.com](mailto:jeff.lund@gmail.com)
-- Calendar appointment: [Appointment](https://calendly.com/jeff-lund/datascience)
+- **Jeff Email**: [jeff.lund@quickstart.com](mailto:jeff.lund@gmail.com)
+- **Jeff Calendar appointment**: [Appointment](https://calendly.com/jeff-lund/datascience)
 - Installed SQL Server and Tools for next week
 
 ## 3/5
