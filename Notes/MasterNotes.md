@@ -194,5 +194,5 @@ RETURN
 
 - SQL start
 - My Management studio is saved at "C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Ssms.exe"
-- Cars database should be properly loaded and I have saveda couple of queries including an example view
+- Cars database should be properly loaded and I have saved a couple of queries including an example view
 - Data Analysts usually cannot manipulate a table directly but can query and save their own view for manipulation

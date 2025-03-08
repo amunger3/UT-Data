@@ -13,6 +13,8 @@
 - [VSCode Wokspace Settings](https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/)
 - [PowerBI SWITCH Statement](https://www.datacamp.com/tutorial/switch-in-dax-for-power-bi)
 - [Microsoft Copilot Article](https://www.techtarget.com/searchdatamanagement/tip/How-to-use-Microsoft-Copilot-in-Power-BI)
+- [DataLemur Practice Interview Questions](https://datalemur.com/questions)
+- [DataLemur Python Practice Example](https://datalemur.com/questions/python-pascals-triangle)
 
 ## VSCode Shortcuts
 
