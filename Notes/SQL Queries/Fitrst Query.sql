@@ -1,0 +1,1 @@
+SELECT * FROM .Car_sales ORDER BY Fuel_efficiency;
