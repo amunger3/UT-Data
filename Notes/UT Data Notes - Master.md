@@ -189,3 +189,7 @@ RETURN
 - PowerBI today, SQL Saturday 3/8
 - One extra day of SQL, one extra day of PowerBI
 - [Microsoft Copilot Article](https://www.techtarget.com/searchdatamanagement/tip/How-to-use-Microsoft-Copilot-in-Power-BI)
+
+## 3/8
+
+- SQL start
