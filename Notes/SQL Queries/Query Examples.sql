@@ -7,3 +7,13 @@ ORDER BY Fuel_efficiency;
 SELECT *
 FROM [Cars].[dbo].[Car_sales]
 WHERE MANUFACTURER LIKE '%b%';
+
+--Top 10 Records
+SELECT TOP 10 * 
+FROM Cars.dbo.Car_sales;
+
+--Engine size >= 1.8 Top 10
+SELECT TOP 10 *
+FROM Cars.dbo.Car_sales
+WHERE Engine_size >= 1.8
+ORDER BY Engine_size ASC;

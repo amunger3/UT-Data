@@ -196,3 +196,10 @@ RETURN
 - My Management studio is saved at "C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Ssms.exe"
 - Cars database should be properly loaded and I have saved a couple of queries including an example view
 - Data Analysts usually cannot manipulate a table directly but can query and save their own view for manipulation
+
+## 3/12
+
+- Some notes for the Cars database:
+- To query the whole table: `SELECT * FROM Cars.dbo.Car_sales`
+- Rememeber `ASC` (Ascending) is default result order when using an `ORDER BY` clause
+- More queries stored [here]('C:\Users\munge\OneDrive\Documents\SQL Server Management Studio')
