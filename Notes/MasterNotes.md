@@ -206,3 +206,5 @@ RETURN
 - To "use" a database for a set of queries: `USE db_name GO`
 - You must use a `GROUP BY` anytime you have an aggregated command
 - Correlation coefficient in SQL [here](https://chartio.com/learn/postgresql/correlation-coefficient-pearson/)
+- `COUNT(*)` selects all the columns
+- Quiz on Saturday, work a little more on understanding correlation coefficient in SQL

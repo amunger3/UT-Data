@@ -34,3 +34,12 @@ SELECT TOP 5 Manufacturer, Model, Horsepower
 FROM dbo.Car_sales
 WHERE Horsepower >= (SELECT AVG(CAST(Horsepower AS INT)) FROM dbo.Car_sales)
 ORDER BY Horsepower DESC;
+
+-- Compare Fuel_efficiency to performance ratio (in query calculation)
+SELECT Manufacturer, Model, 
+       Fuel_efficiency, 
+       Horsepower,
+       (cast(Horsepower as int) / cast(Fuel_efficiency as int)) AS Power_Ratio
+FROM dbo.Car_sales
+where Fuel_efficiency > 0
+ORDER BY Power_Ratio DESC
