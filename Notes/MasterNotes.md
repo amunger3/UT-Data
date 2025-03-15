@@ -211,3 +211,6 @@ RETURN
 
 ## 3/15
 
+- Begin work on the Baseball database
+- Loaded database from a shared file called 'Baseball.bak'
+- SQL Server Management Studio should have it loaded, [here](./Example-Files/Baseball.bak)
