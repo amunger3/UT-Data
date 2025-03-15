@@ -208,3 +208,6 @@ RETURN
 - Correlation coefficient in SQL [here](https://chartio.com/learn/postgresql/correlation-coefficient-pearson/)
 - `COUNT(*)` selects all the columns
 - Quiz on Saturday, work a little more on understanding correlation coefficient in SQL
+
+## 3/15
+
