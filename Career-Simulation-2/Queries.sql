@@ -20,3 +20,14 @@ ORDER BY Qty_Sold DESC;
 SELECT a1.*, a2.[Quantity_Sold_kilo], a2.[Unit_Selling_Price_RMB_kg]
 FROM VegetableSales.dbo.annex2 a2
 INNER JOIN VegetableSales.dbo.annex1 a1 on a2.Item_Code = a1.Item_Code;
+
+-- Top Quantity Sold by Date
+SELECT Date, SUM(Quantity_Sold_kilo) AS Qty_Sold From VegetableSales.dbo.annex2
+GROUP BY Date
+ORDER BY Qty_Sold DESC;
+
+-- Most Expensive Vegetables
+SELECT a1.*, a2.[Quantity_Sold_kilo], a2.[Unit_Selling_Price_RMB_kg]
+FROM VegetableSales.dbo.annex2 a2
+INNER JOIN VegetableSales.dbo.annex1 a1 on a2.Item_Code = a1.Item_Code
+ORDER BY Unit_Selling_Price_RMB_kg DESC;

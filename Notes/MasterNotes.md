@@ -224,3 +224,4 @@ RETURN
 - Career Simulation 2 dicussion
 - PowerBI requirements: 3 pages, 3 visuals per page, 2 slicers per page
 - Will use vegetable sales dataset
+- Started on SQL Queries -- need to finish early this week
