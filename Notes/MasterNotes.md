@@ -218,3 +218,9 @@ RETURN
 ## 3/19
 
 - Missed class. Catch up with notes later.
+
+## 3/22
+
+- Career Simulation 2 dicussion
+- PowerBI requirements: 3 pages, 3 visuals per page, 2 slicers per page
+- Will use vegetable sales dataset
