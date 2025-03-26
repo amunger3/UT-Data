@@ -225,3 +225,13 @@ RETURN
 - PowerBI requirements: 3 pages, 3 visuals per page, 2 slicers per page
 - Will use vegetable sales dataset
 - Started on SQL Queries -- need to finish early this week
+
+## 3/26
+
+- Submitted Career Simulation 2
+- Microsoft Fabric Start
+- Chat Note:
+    `YoY % Change = VAR CurrentYear = [Total Sales] VAR PreviousYear = CALCULATE([Total Sales], DATEADD(Dates[Date], -1, YEAR)) RETURN IF(PreviousYear <> 0, DIVIDE(CurrentYear - PreviousYear, PreviousYear), BLANK())`
+- Need to somehow "signup with a work email" to download 60 day trial of Microsoft Fabric
+- [Microsoft Fabric Web](https://app.fabric.microsoft.com/home?culture=en-us&country=us&experience=fabric-developer)
+- Microsoft account: [dayana.quintanilla@chattacademy.org](mailto:dayana.quintanilla@chattacademy.org) Egnwse314!
