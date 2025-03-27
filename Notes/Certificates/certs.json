@@ -1,0 +1,798 @@
+{
+    "data": [
+        {
+            "id": "0bb11b50-5d59-4552-be4f-72cc7103fa59",
+            "expires_at_date": null,
+            "issued_at_date": "2025-01-29",
+            "issued_to": "Alexander Munger",
+            "locale": "en",
+            "public": true,
+            "state": "accepted",
+            "translate_metadata": false,
+            "accepted_at": "2025-01-29T14:32:17.200-05:00",
+            "expires_at": null,
+            "issued_at": "2025-01-29T02:01:25.000-05:00",
+            "last_updated_at": "2025-01-29T14:32:17.200-05:00",
+            "updated_at": "2025-01-29T14:32:17.201-05:00",
+            "earner_path": "/users/alex-munger.3a168db4",
+            "earner_photo_url": null,
+            "is_private_badge": false,
+            "user_is_earner": false,
+            "printable": false,
+            "issuer": {
+                "summary": "issued by Quickstart Inc.",
+                "entities": [
+                    {
+                        "label": "Issued by",
+                        "primary": true,
+                        "entity": {
+                            "type": "Organization",
+                            "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "name": "Quickstart Inc.",
+                            "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "vanity_url": "https://www.credly.com/org/quickstart",
+                            "internationalize_badge_templates": false,
+                            "share_to_ziprecruiter": true,
+                            "twitter_url": "https://twitter.com/QuickStartIntel",
+                            "verified": false
+                        }
+                    }
+                ]
+            },
+            "badge_template": {
+                "id": "277f71bb-5c44-417d-a35f-963aa24ae9b8",
+                "description": "This course sheds light on advanced concepts and topics of data analytics and visualization in Microsoft Excel.",
+                "global_activity_url": "https://www.quickstart.com/analyzing-and-visualizing-data-with-excel-bcv.html",
+                "earn_this_badge_url": null,
+                "enable_earn_this_badge": false,
+                "enable_detail_attribute_visibility": true,
+                "job_board_url": null,
+                "name": "Analyzing and Visualizing Data with Excel",
+                "public": true,
+                "recipient_type": "User",
+                "vanity_slug": "analyzing-and-visualizing-data-with-excel.4",
+                "show_badge_lmi": false,
+                "show_skill_tag_links": true,
+                "settings_enable_related_badges": true,
+                "translatable": false,
+                "level": "Intermediate",
+                "time_to_earn": "Hours",
+                "cost": "Paid",
+                "type_category": "Learning",
+                "image": {
+                    "id": "6c0b5cc1-933c-46f4-8b26-ff8d7836c63b",
+                    "url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png"
+                },
+                "image_url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png",
+                "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.4",
+                "owner_vanity_slug": "quickstart",
+                "badge_template_earnable": false,
+                "recommendable": true,
+                "issuer": {
+                    "summary": "issued by Quickstart Inc.",
+                    "entities": [
+                        {
+                            "label": "Issued by",
+                            "primary": true,
+                            "entity": {
+                                "type": "Organization",
+                                "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "name": "Quickstart Inc.",
+                                "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "vanity_url": "https://www.credly.com/org/quickstart",
+                                "internationalize_badge_templates": false,
+                                "share_to_ziprecruiter": true,
+                                "twitter_url": "https://twitter.com/QuickStartIntel",
+                                "verified": false
+                            }
+                        }
+                    ]
+                },
+                "related_badge_templates": [
+                    {
+                        "id": "c0cba96b-ab7a-4341-95fd-6bf3948a4782",
+                        "name": "Analyzing and Visualizing Data with Excel",
+                        "image": {
+                            "id": "8f05aa59-6cbe-4346-a442-78bee7fba649",
+                            "url": "https://images.credly.com/images/8f05aa59-6cbe-4346-a442-78bee7fba649/tempfile20220802-54-3efocs.png"
+                        },
+                        "image_url": "https://images.credly.com/images/8f05aa59-6cbe-4346-a442-78bee7fba649/tempfile20220802-54-3efocs.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.2"
+                    },
+                    {
+                        "id": "27116176-c55a-401c-bb09-ef9a9090d4c0",
+                        "name": "Microsoft Power BI Data Analyst (PL-300)",
+                        "image": {
+                            "id": "827082d7-2042-4dfb-9ab6-b873117ac82c",
+                            "url": "https://images.credly.com/images/827082d7-2042-4dfb-9ab6-b873117ac82c/tempfile20220802-56-13pltci.png"
+                        },
+                        "image_url": "https://images.credly.com/images/827082d7-2042-4dfb-9ab6-b873117ac82c/tempfile20220802-56-13pltci.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/microsoft-power-bi-data-analyst-pl-300"
+                    },
+                    {
+                        "id": "044c0523-b8d2-4bd4-a6c4-4ee9b5e84e8d",
+                        "name": "Data Analytics and Visualization Bootcamp Full Time",
+                        "image": {
+                            "id": "4894d4af-5e4d-46d9-84df-2d5da49181cc",
+                            "url": "https://images.credly.com/images/4894d4af-5e4d-46d9-84df-2d5da49181cc/tempfile20240902-64-ufrqq.png"
+                        },
+                        "image_url": "https://images.credly.com/images/4894d4af-5e4d-46d9-84df-2d5da49181cc/tempfile20240902-64-ufrqq.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/data-analytics-and-visualization-bootcamp-full-time"
+                    }
+                ],
+                "alignments": [],
+                "badge_template_activities": [
+                    {
+                        "id": "e3dcc049-da1e-4885-8a21-461d70562b1a",
+                        "activity_type": "Course",
+                        "required_badge_template_id": null,
+                        "title": "Learners must complete the course with the minimum passing grade requirements and within the duration time specified. This course has a complete duration of 6 Hours. This course is presented in a Self-Paced format. This course is classified by QuickStart as a level of Intermediate.",
+                        "url": "https://www.quickstart.com/mycourses/Index/productpdf/pId/9131"
+                    }
+                ],
+                "endorsements": [],
+                "skills": [
+                    {
+                        "id": "6faff02d-ce14-4bc8-a0e0-409018866def",
+                        "name": "Excel",
+                        "vanity_slug": "excel"
+                    },
+                    {
+                        "id": "6bbc97cf-fe77-4463-80ab-6df4914a939a",
+                        "name": "Data Analysis",
+                        "vanity_slug": "data-analysis"
+                    },
+                    {
+                        "id": "f7d62d7d-1b77-4c1e-8df0-14756de6d6a8",
+                        "name": "Data Visualization",
+                        "vanity_slug": "data-visualization"
+                    }
+                ]
+            },
+            "image": {
+                "id": "6c0b5cc1-933c-46f4-8b26-ff8d7836c63b",
+                "url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png"
+            },
+            "image_url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png",
+            "evidence": [],
+            "recommendations": []
+        },
+        {
+            "id": "c76cb3b5-45e4-4379-8897-2f61e747894e",
+            "expires_at_date": null,
+            "issued_at_date": "2025-02-19",
+            "issued_to": "Alexander Munger",
+            "locale": "en",
+            "public": true,
+            "state": "accepted",
+            "translate_metadata": false,
+            "accepted_at": "2025-02-19T17:08:34.350-05:00",
+            "expires_at": null,
+            "issued_at": "2025-02-19T05:02:34.000-05:00",
+            "last_updated_at": "2025-02-19T17:08:34.371-05:00",
+            "updated_at": "2025-02-19T17:08:34.371-05:00",
+            "earner_path": "/users/alex-munger.3a168db4",
+            "earner_photo_url": null,
+            "is_private_badge": false,
+            "user_is_earner": false,
+            "printable": false,
+            "issuer": {
+                "summary": "issued by Quickstart Inc.",
+                "entities": [
+                    {
+                        "label": "Issued by",
+                        "primary": true,
+                        "entity": {
+                            "type": "Organization",
+                            "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "name": "Quickstart Inc.",
+                            "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "vanity_url": "https://www.credly.com/org/quickstart",
+                            "internationalize_badge_templates": false,
+                            "share_to_ziprecruiter": true,
+                            "twitter_url": "https://twitter.com/QuickStartIntel",
+                            "verified": false
+                        }
+                    }
+                ]
+            },
+            "badge_template": {
+                "id": "92102915-913c-4e90-bb7b-e2da11f11b38",
+                "description": "Exploratory Data Analysis report is a hands-on project to give students a platform to use their skills. You will be tasked with crafting an exploratory data analysis report, utilizing Excel for the analysis.",
+                "global_activity_url": "https://www.quickstart.com/exploratory-data-analysis-1st-data-science-project.html",
+                "earn_this_badge_url": null,
+                "enable_earn_this_badge": false,
+                "enable_detail_attribute_visibility": true,
+                "job_board_url": null,
+                "name": "Data Analytics - Career Simulation 1",
+                "public": true,
+                "recipient_type": "User",
+                "vanity_slug": "data-analytics-career-simulation-1",
+                "show_badge_lmi": false,
+                "show_skill_tag_links": true,
+                "settings_enable_related_badges": true,
+                "translatable": false,
+                "level": "Foundational",
+                "time_to_earn": "Days",
+                "cost": "Paid",
+                "type_category": "Learning",
+                "image": {
+                    "id": "c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7",
+                    "url": "https://images.credly.com/images/c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7/tempfile20241024-36-b6bl3y.png"
+                },
+                "image_url": "https://images.credly.com/images/c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7/tempfile20241024-36-b6bl3y.png",
+                "url": "https://www.credly.com/org/quickstart/badge/data-analytics-career-simulation-1",
+                "owner_vanity_slug": "quickstart",
+                "badge_template_earnable": false,
+                "recommendable": true,
+                "issuer": {
+                    "summary": "issued by Quickstart Inc.",
+                    "entities": [
+                        {
+                            "label": "Issued by",
+                            "primary": true,
+                            "entity": {
+                                "type": "Organization",
+                                "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "name": "Quickstart Inc.",
+                                "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "vanity_url": "https://www.credly.com/org/quickstart",
+                                "internationalize_badge_templates": false,
+                                "share_to_ziprecruiter": true,
+                                "twitter_url": "https://twitter.com/QuickStartIntel",
+                                "verified": false
+                            }
+                        }
+                    ]
+                },
+                "related_badge_templates": [
+                    {
+                        "id": "277f71bb-5c44-417d-a35f-963aa24ae9b8",
+                        "name": "Analyzing and Visualizing Data with Excel",
+                        "image": {
+                            "id": "6c0b5cc1-933c-46f4-8b26-ff8d7836c63b",
+                            "url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png"
+                        },
+                        "image_url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.4"
+                    },
+                    {
+                        "id": "c0cba96b-ab7a-4341-95fd-6bf3948a4782",
+                        "name": "Analyzing and Visualizing Data with Excel",
+                        "image": {
+                            "id": "8f05aa59-6cbe-4346-a442-78bee7fba649",
+                            "url": "https://images.credly.com/images/8f05aa59-6cbe-4346-a442-78bee7fba649/tempfile20220802-54-3efocs.png"
+                        },
+                        "image_url": "https://images.credly.com/images/8f05aa59-6cbe-4346-a442-78bee7fba649/tempfile20220802-54-3efocs.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.2"
+                    },
+                    {
+                        "id": "d566e7e9-c663-400a-a56f-0a26d67bc6d6",
+                        "name": "Analyzing and Visualizing Data with Excel",
+                        "image": {
+                            "id": "3a1c051b-dead-49cc-83bd-5e0056d5f8c6",
+                            "url": "https://images.credly.com/images/3a1c051b-dead-49cc-83bd-5e0056d5f8c6/314f9c35436a4366b5001307cafc9009.PNG.png"
+                        },
+                        "image_url": "https://images.credly.com/images/3a1c051b-dead-49cc-83bd-5e0056d5f8c6/314f9c35436a4366b5001307cafc9009.PNG.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.3"
+                    }
+                ],
+                "alignments": [],
+                "badge_template_activities": [
+                    {
+                        "id": "533ebb65-9a54-4c3d-8c26-67476223ae15",
+                        "activity_type": "Project",
+                        "required_badge_template_id": null,
+                        "title": "Learners must complete the project with the minimum passing grade requirements and within the duration time specified.",
+                        "url": "https://www.quickstart.com/data-analytics-career-simulation-1.html"
+                    }
+                ],
+                "endorsements": [],
+                "skills": [
+                    {
+                        "id": "beaaea68-22e3-43a4-a729-4426f3353c14",
+                        "name": "Visualization",
+                        "vanity_slug": "visualization"
+                    },
+                    {
+                        "id": "6faff02d-ce14-4bc8-a0e0-409018866def",
+                        "name": "Excel",
+                        "vanity_slug": "excel"
+                    },
+                    {
+                        "id": "6bbc97cf-fe77-4463-80ab-6df4914a939a",
+                        "name": "Data Analysis",
+                        "vanity_slug": "data-analysis"
+                    }
+                ]
+            },
+            "image": {
+                "id": "c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7",
+                "url": "https://images.credly.com/images/c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7/tempfile20241024-36-b6bl3y.png"
+            },
+            "image_url": "https://images.credly.com/images/c160a3fc-8615-4c5f-9e8a-9d48dec7b5e7/tempfile20241024-36-b6bl3y.png",
+            "evidence": [],
+            "recommendations": []
+        },
+        {
+            "id": "69d426ba-4d39-490b-a45d-07eb0f3de0c5",
+            "expires_at_date": null,
+            "issued_at_date": "2025-02-27",
+            "issued_to": "Alexander Munger",
+            "locale": "en",
+            "public": true,
+            "state": "accepted",
+            "translate_metadata": false,
+            "accepted_at": "2025-02-26T20:54:51.734-05:00",
+            "expires_at": null,
+            "issued_at": "2025-02-26T20:02:51.000-05:00",
+            "last_updated_at": "2025-02-26T20:54:51.757-05:00",
+            "updated_at": "2025-02-26T20:54:51.757-05:00",
+            "earner_path": "/users/alex-munger.3a168db4",
+            "earner_photo_url": null,
+            "is_private_badge": false,
+            "user_is_earner": false,
+            "printable": false,
+            "issuer": {
+                "summary": "issued by Quickstart Inc.",
+                "entities": [
+                    {
+                        "label": "Issued by",
+                        "primary": true,
+                        "entity": {
+                            "type": "Organization",
+                            "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "name": "Quickstart Inc.",
+                            "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "vanity_url": "https://www.credly.com/org/quickstart",
+                            "internationalize_badge_templates": false,
+                            "share_to_ziprecruiter": true,
+                            "twitter_url": "https://twitter.com/QuickStartIntel",
+                            "verified": false
+                        }
+                    }
+                ]
+            },
+            "badge_template": {
+                "id": "a25f0900-66c4-4bfe-bbc5-9e96c2f89a9e",
+                "description": "This course will discuss the various methods and best practices that are in line with business and technical requirements for modeling, visualizing, and analyzing data with Power BI. The course will also show how to access and process data from a range of data sources including both relational and non-relational data",
+                "global_activity_url": "https://www.quickstart.com/microsoft-power-bi-data-analyst-pl-300-bcv.html",
+                "earn_this_badge_url": null,
+                "enable_earn_this_badge": false,
+                "enable_detail_attribute_visibility": true,
+                "job_board_url": null,
+                "name": "Analyzing and Visualizing Data with Power BI (PL-300)",
+                "public": true,
+                "recipient_type": "User",
+                "vanity_slug": "analyzing-and-visualizing-data-with-power-bi-pl-300",
+                "show_badge_lmi": false,
+                "show_skill_tag_links": true,
+                "settings_enable_related_badges": true,
+                "translatable": false,
+                "level": "Intermediate",
+                "time_to_earn": "Hours",
+                "cost": "Paid",
+                "type_category": "Certification",
+                "image": {
+                    "id": "0fe8c93b-e066-466c-b1b9-f0e9cb90d51c",
+                    "url": "https://images.credly.com/images/0fe8c93b-e066-466c-b1b9-f0e9cb90d51c/tempfile20241002-90-u2xdku.png"
+                },
+                "image_url": "https://images.credly.com/images/0fe8c93b-e066-466c-b1b9-f0e9cb90d51c/tempfile20241002-90-u2xdku.png",
+                "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-power-bi-pl-300",
+                "owner_vanity_slug": "quickstart",
+                "badge_template_earnable": false,
+                "recommendable": true,
+                "issuer": {
+                    "summary": "issued by Quickstart Inc.",
+                    "entities": [
+                        {
+                            "label": "Issued by",
+                            "primary": true,
+                            "entity": {
+                                "type": "Organization",
+                                "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "name": "Quickstart Inc.",
+                                "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "vanity_url": "https://www.credly.com/org/quickstart",
+                                "internationalize_badge_templates": false,
+                                "share_to_ziprecruiter": true,
+                                "twitter_url": "https://twitter.com/QuickStartIntel",
+                                "verified": false
+                            }
+                        }
+                    ]
+                },
+                "related_badge_templates": [
+                    {
+                        "id": "27116176-c55a-401c-bb09-ef9a9090d4c0",
+                        "name": "Microsoft Power BI Data Analyst (PL-300)",
+                        "image": {
+                            "id": "827082d7-2042-4dfb-9ab6-b873117ac82c",
+                            "url": "https://images.credly.com/images/827082d7-2042-4dfb-9ab6-b873117ac82c/tempfile20220802-56-13pltci.png"
+                        },
+                        "image_url": "https://images.credly.com/images/827082d7-2042-4dfb-9ab6-b873117ac82c/tempfile20220802-56-13pltci.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/microsoft-power-bi-data-analyst-pl-300"
+                    },
+                    {
+                        "id": "044c0523-b8d2-4bd4-a6c4-4ee9b5e84e8d",
+                        "name": "Data Analytics and Visualization Bootcamp Full Time",
+                        "image": {
+                            "id": "4894d4af-5e4d-46d9-84df-2d5da49181cc",
+                            "url": "https://images.credly.com/images/4894d4af-5e4d-46d9-84df-2d5da49181cc/tempfile20240902-64-ufrqq.png"
+                        },
+                        "image_url": "https://images.credly.com/images/4894d4af-5e4d-46d9-84df-2d5da49181cc/tempfile20240902-64-ufrqq.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/data-analytics-and-visualization-bootcamp-full-time"
+                    },
+                    {
+                        "id": "277f71bb-5c44-417d-a35f-963aa24ae9b8",
+                        "name": "Analyzing and Visualizing Data with Excel",
+                        "image": {
+                            "id": "6c0b5cc1-933c-46f4-8b26-ff8d7836c63b",
+                            "url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png"
+                        },
+                        "image_url": "https://images.credly.com/images/6c0b5cc1-933c-46f4-8b26-ff8d7836c63b/tempfile20240923-15-aeporc.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analyzing-and-visualizing-data-with-excel.4"
+                    }
+                ],
+                "alignments": [],
+                "badge_template_activities": [
+                    {
+                        "id": "a8d88159-8747-403e-a1af-c07a0e50a6f3",
+                        "activity_type": "Course",
+                        "required_badge_template_id": null,
+                        "title": "Learners must complete the course with the minimum passing grade requirements and within the duration time specified. This course has a complete duration of 4 Hours. This course is presented in a Self-Paced format. This course is classified by QuickStart as a level of Intermediate.",
+                        "url": "https://www.quickstart.com/microsoft-power-bi-data-analyst-pl-300-bcv.html"
+                    }
+                ],
+                "endorsements": [],
+                "skills": [
+                    {
+                        "id": "f7d62d7d-1b77-4c1e-8df0-14756de6d6a8",
+                        "name": "Data Visualization",
+                        "vanity_slug": "data-visualization"
+                    },
+                    {
+                        "id": "6bbc97cf-fe77-4463-80ab-6df4914a939a",
+                        "name": "Data Analysis",
+                        "vanity_slug": "data-analysis"
+                    },
+                    {
+                        "id": "c6fb42d4-899c-4048-8e4e-7a670bef8928",
+                        "name": "Microsoft",
+                        "vanity_slug": "microsoft"
+                    }
+                ]
+            },
+            "image": {
+                "id": "0fe8c93b-e066-466c-b1b9-f0e9cb90d51c",
+                "url": "https://images.credly.com/images/0fe8c93b-e066-466c-b1b9-f0e9cb90d51c/tempfile20241002-90-u2xdku.png"
+            },
+            "image_url": "https://images.credly.com/images/0fe8c93b-e066-466c-b1b9-f0e9cb90d51c/tempfile20241002-90-u2xdku.png",
+            "evidence": [],
+            "recommendations": []
+        },
+        {
+            "id": "882a4707-4e68-45bf-986a-06edf65731f1",
+            "expires_at_date": null,
+            "issued_at_date": "2025-03-13",
+            "issued_to": "Alexander Munger",
+            "locale": "en",
+            "public": true,
+            "state": "accepted",
+            "translate_metadata": false,
+            "accepted_at": "2025-03-12T20:46:29.132-04:00",
+            "expires_at": null,
+            "issued_at": "2025-03-13T08:03:28.000-04:00",
+            "last_updated_at": "2025-03-12T20:46:29.160-04:00",
+            "updated_at": "2025-03-12T20:46:29.160-04:00",
+            "earner_path": "/users/alex-munger.3a168db4",
+            "earner_photo_url": null,
+            "is_private_badge": false,
+            "user_is_earner": false,
+            "printable": false,
+            "issuer": {
+                "summary": "issued by Quickstart Inc.",
+                "entities": [
+                    {
+                        "label": "Issued by",
+                        "primary": true,
+                        "entity": {
+                            "type": "Organization",
+                            "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "name": "Quickstart Inc.",
+                            "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "vanity_url": "https://www.credly.com/org/quickstart",
+                            "internationalize_badge_templates": false,
+                            "share_to_ziprecruiter": true,
+                            "twitter_url": "https://twitter.com/QuickStartIntel",
+                            "verified": false
+                        }
+                    }
+                ]
+            },
+            "badge_template": {
+                "id": "588536ef-e3c7-4e5e-96bd-4d21dc446456",
+                "description": "Building a LinkedIn Profile and Growing Your Network is a concise course designed to help you create an impactful LinkedIn profile and effectively expand your professional network",
+                "global_activity_url": "https://www.quickstart.com/building-a-linkedin-profile-and-growing-your-network.html",
+                "earn_this_badge_url": null,
+                "enable_earn_this_badge": false,
+                "enable_detail_attribute_visibility": true,
+                "job_board_url": null,
+                "name": "Building a LinkedIn profile and growing your network",
+                "public": true,
+                "recipient_type": "User",
+                "vanity_slug": "building-a-linkedin-profile-and-growing-your-networ",
+                "show_badge_lmi": false,
+                "show_skill_tag_links": true,
+                "settings_enable_related_badges": true,
+                "translatable": false,
+                "level": "Foundational",
+                "time_to_earn": "Hours",
+                "cost": "Paid",
+                "type_category": "Learning",
+                "image": {
+                    "id": "465ab09d-77b7-4f9b-a904-3190256046d4",
+                    "url": "https://images.credly.com/images/465ab09d-77b7-4f9b-a904-3190256046d4/tempfile20241028-36-llgb4e.png"
+                },
+                "image_url": "https://images.credly.com/images/465ab09d-77b7-4f9b-a904-3190256046d4/tempfile20241028-36-llgb4e.png",
+                "url": "https://www.credly.com/org/quickstart/badge/building-a-linkedin-profile-and-growing-your-networ",
+                "owner_vanity_slug": "quickstart",
+                "badge_template_earnable": false,
+                "recommendable": true,
+                "issuer": {
+                    "summary": "issued by Quickstart Inc.",
+                    "entities": [
+                        {
+                            "label": "Issued by",
+                            "primary": true,
+                            "entity": {
+                                "type": "Organization",
+                                "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "name": "Quickstart Inc.",
+                                "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "vanity_url": "https://www.credly.com/org/quickstart",
+                                "internationalize_badge_templates": false,
+                                "share_to_ziprecruiter": true,
+                                "twitter_url": "https://twitter.com/QuickStartIntel",
+                                "verified": false
+                            }
+                        }
+                    ]
+                },
+                "related_badge_templates": [
+                    {
+                        "id": "06b057c0-c909-4d40-8a88-f32a6aca0e14",
+                        "name": "Fundamentals (Cybersecurity)",
+                        "image": {
+                            "id": "b0f0afba-5469-493c-aaa9-edc16126c82c",
+                            "url": "https://images.credly.com/images/b0f0afba-5469-493c-aaa9-edc16126c82c/tempfile20240902-91-6uhcas.png"
+                        },
+                        "image_url": "https://images.credly.com/images/b0f0afba-5469-493c-aaa9-edc16126c82c/tempfile20240902-91-6uhcas.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/fundamentals-cybersecurity"
+                    },
+                    {
+                        "id": "07931165-3f37-4e04-8bd4-80f42ba9b2d4",
+                        "name": "Cybersecurity Career Guide",
+                        "image": {
+                            "id": "d203979e-0dff-4b67-9fa7-8dc55934d4ce",
+                            "url": "https://images.credly.com/images/d203979e-0dff-4b67-9fa7-8dc55934d4ce/ff0fb8947bbe48d7b8877ba8075b4a1c.PNG.png"
+                        },
+                        "image_url": "https://images.credly.com/images/d203979e-0dff-4b67-9fa7-8dc55934d4ce/ff0fb8947bbe48d7b8877ba8075b4a1c.PNG.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/cybersecurity-career-guide"
+                    },
+                    {
+                        "id": "04596f13-a1e4-4fd2-9297-a97d881bf5ff",
+                        "name": "Cybersecurity Bootcamp Full Time",
+                        "image": {
+                            "id": "3f3e52ca-40fb-468b-b1ac-4313bbc61afc",
+                            "url": "https://images.credly.com/images/3f3e52ca-40fb-468b-b1ac-4313bbc61afc/tempfile20240902-46-gsmsud.png"
+                        },
+                        "image_url": "https://images.credly.com/images/3f3e52ca-40fb-468b-b1ac-4313bbc61afc/tempfile20240902-46-gsmsud.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/cybersecurity-bootcamp-full-time"
+                    }
+                ],
+                "alignments": [],
+                "badge_template_activities": [
+                    {
+                        "id": "c1330a73-7a21-417a-aa95-947aae3dabe3",
+                        "activity_type": "Course",
+                        "required_badge_template_id": null,
+                        "title": "Learners must complete the course with the minimum passing grade requirements and within the duration time specified. This course has a complete duration of Hours. This course is presented in a Self-Paced format. This course is classified by QuickStart as a level of Beginner.",
+                        "url": "https://www.quickstart.com/building-a-linkedin-profile-and-growing-your-network.html"
+                    }
+                ],
+                "endorsements": [],
+                "skills": [
+                    {
+                        "id": "a0364f3a-ca2c-4ae3-a0b3-182c4f48f885",
+                        "name": "CV Building",
+                        "vanity_slug": "cv-building"
+                    },
+                    {
+                        "id": "84937b29-5bf9-4a59-9c18-2e7b1c91d6da",
+                        "name": "LinkedIn",
+                        "vanity_slug": "linkedin"
+                    },
+                    {
+                        "id": "ba762086-836d-4dbb-b875-678aa13a4ebf",
+                        "name": "Networking",
+                        "vanity_slug": "networking"
+                    }
+                ]
+            },
+            "image": {
+                "id": "465ab09d-77b7-4f9b-a904-3190256046d4",
+                "url": "https://images.credly.com/images/465ab09d-77b7-4f9b-a904-3190256046d4/tempfile20241028-36-llgb4e.png"
+            },
+            "image_url": "https://images.credly.com/images/465ab09d-77b7-4f9b-a904-3190256046d4/tempfile20241028-36-llgb4e.png",
+            "evidence": [],
+            "recommendations": []
+        },
+        {
+            "id": "19a92fa9-12bf-4d1e-811c-08768adb5e79",
+            "expires_at_date": null,
+            "issued_at_date": "2025-03-27",
+            "issued_to": "Alexander Munger",
+            "locale": "en",
+            "public": true,
+            "state": "accepted",
+            "translate_metadata": false,
+            "accepted_at": "2025-03-26T20:57:46.374-04:00",
+            "expires_at": null,
+            "issued_at": "2025-03-27T08:03:46.000-04:00",
+            "last_updated_at": "2025-03-26T20:57:46.399-04:00",
+            "updated_at": "2025-03-26T20:57:46.399-04:00",
+            "earner_path": "/users/alex-munger.3a168db4",
+            "earner_photo_url": null,
+            "is_private_badge": false,
+            "user_is_earner": false,
+            "printable": false,
+            "issuer": {
+                "summary": "issued by Quickstart Inc.",
+                "entities": [
+                    {
+                        "label": "Issued by",
+                        "primary": true,
+                        "entity": {
+                            "type": "Organization",
+                            "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "name": "Quickstart Inc.",
+                            "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                            "vanity_url": "https://www.credly.com/org/quickstart",
+                            "internationalize_badge_templates": false,
+                            "share_to_ziprecruiter": true,
+                            "twitter_url": "https://twitter.com/QuickStartIntel",
+                            "verified": false
+                        }
+                    }
+                ]
+            },
+            "badge_template": {
+                "id": "530ac144-681e-4262-bc0d-493aa1a8721a",
+                "description": "A comprehensive training program that explores the capabilities of Microsoft Fabric, a unified platform for end-to-end data analytics. It equips learners with the skills to design, create, and deploy enterprise-scale data analytics solutions using various components of Microsoft Fabric.",
+                "global_activity_url": "https://www.quickstart.com/microsoft-fabrics.html",
+                "earn_this_badge_url": null,
+                "enable_earn_this_badge": false,
+                "enable_detail_attribute_visibility": true,
+                "job_board_url": null,
+                "name": "Microsoft Fabric",
+                "public": true,
+                "recipient_type": "User",
+                "vanity_slug": "microsoft-fabric",
+                "show_badge_lmi": false,
+                "show_skill_tag_links": true,
+                "settings_enable_related_badges": true,
+                "translatable": false,
+                "level": "Foundational",
+                "time_to_earn": "Hours",
+                "cost": "Paid",
+                "type_category": "Learning",
+                "image": {
+                    "id": "fbb2b9cd-7655-465a-b822-a58fb1fa7e4a",
+                    "url": "https://images.credly.com/images/fbb2b9cd-7655-465a-b822-a58fb1fa7e4a/tempfile20241024-89-cavhcl.png"
+                },
+                "image_url": "https://images.credly.com/images/fbb2b9cd-7655-465a-b822-a58fb1fa7e4a/tempfile20241024-89-cavhcl.png",
+                "url": "https://www.credly.com/org/quickstart/badge/microsoft-fabric",
+                "owner_vanity_slug": "quickstart",
+                "badge_template_earnable": false,
+                "recommendable": true,
+                "issuer": {
+                    "summary": "issued by Quickstart Inc.",
+                    "entities": [
+                        {
+                            "label": "Issued by",
+                            "primary": true,
+                            "entity": {
+                                "type": "Organization",
+                                "id": "1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "name": "Quickstart Inc.",
+                                "url": "https://www.credly.com/api/v1/organizations/1646c3b8-dcbf-47ff-93b5-ab99dab9c657",
+                                "vanity_url": "https://www.credly.com/org/quickstart",
+                                "internationalize_badge_templates": false,
+                                "share_to_ziprecruiter": true,
+                                "twitter_url": "https://twitter.com/QuickStartIntel",
+                                "verified": false
+                            }
+                        }
+                    ]
+                },
+                "related_badge_templates": [
+                    {
+                        "id": "10a959ea-e1b0-4105-a90e-1f4369061263",
+                        "name": "Data Science Immersive Bootcamp",
+                        "image": {
+                            "id": "0868005b-5da8-456c-9389-0774f9728017",
+                            "url": "https://images.credly.com/images/0868005b-5da8-456c-9389-0774f9728017/data_science_immersive_bootcamp.png"
+                        },
+                        "image_url": "https://images.credly.com/images/0868005b-5da8-456c-9389-0774f9728017/data_science_immersive_bootcamp.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/data-science-immersive-bootcamp"
+                    },
+                    {
+                        "id": "44a5f848-a956-4fd4-a05b-abd8edaf84b5",
+                        "name": "Analytics Storytelling for Impact",
+                        "image": {
+                            "id": "6ff8006f-0059-4b93-9847-686c0f736404",
+                            "url": "https://images.credly.com/images/6ff8006f-0059-4b93-9847-686c0f736404/tempfile20220802-49-15wmu58.png"
+                        },
+                        "image_url": "https://images.credly.com/images/6ff8006f-0059-4b93-9847-686c0f736404/tempfile20220802-49-15wmu58.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/analytics-storytelling-for-impact.2"
+                    },
+                    {
+                        "id": "0cc77d35-af86-4d27-a1e1-ae2894664f22",
+                        "name": "Data Science vs Data Analytics vs Artificial Intelligence",
+                        "image": {
+                            "id": "2dad4875-2d43-4e57-bf92-a8c94f4be85b",
+                            "url": "https://images.credly.com/images/2dad4875-2d43-4e57-bf92-a8c94f4be85b/5a3d3829a2284dc098588b8355cfc9b8.PNG.png"
+                        },
+                        "image_url": "https://images.credly.com/images/2dad4875-2d43-4e57-bf92-a8c94f4be85b/5a3d3829a2284dc098588b8355cfc9b8.PNG.png",
+                        "url": "https://www.credly.com/org/quickstart/badge/data-science-vs-data-analytics-vs-artificial-intelligence"
+                    }
+                ],
+                "alignments": [],
+                "badge_template_activities": [
+                    {
+                        "id": "909b5fb5-9c63-4c68-97ef-e66f8203a55f",
+                        "activity_type": "Course",
+                        "required_badge_template_id": null,
+                        "title": "Learners must complete the course with the minimum passing grade requirements and within the duration time specified. his project has a complete duration of 3 hours. This course is presented in a Self paced format. This course is classified by QuickStart as a level of Beginner.",
+                        "url": "https://www.quickstart.com/microsoft-fabrics.html"
+                    }
+                ],
+                "endorsements": [],
+                "skills": [
+                    {
+                        "id": "a3cfd6d1-9c58-49bf-99d4-0be5d2ef8db8",
+                        "name": "Unified Analytics Platform",
+                        "vanity_slug": "unified-analytics-platform"
+                    },
+                    {
+                        "id": "bb52a06a-943a-44e7-86ed-e37002191ff7",
+                        "name": "Data Analytics",
+                        "vanity_slug": "data-analytics"
+                    },
+                    {
+                        "id": "fcd4d46d-00fa-4804-a7e7-4f1a5edfcb1b",
+                        "name": "Microsoft Fabric",
+                        "vanity_slug": "microsoft-fabric"
+                    }
+                ]
+            },
+            "image": {
+                "id": "fbb2b9cd-7655-465a-b822-a58fb1fa7e4a",
+                "url": "https://images.credly.com/images/fbb2b9cd-7655-465a-b822-a58fb1fa7e4a/tempfile20241024-89-cavhcl.png"
+            },
+            "image_url": "https://images.credly.com/images/fbb2b9cd-7655-465a-b822-a58fb1fa7e4a/tempfile20241024-89-cavhcl.png",
+            "evidence": [],
+            "recommendations": []
+        }
+    ],
+    "metadata": {
+        "count": 5,
+        "current_page": 1,
+        "total_count": 5,
+        "total_pages": 1,
+        "per": 48,
+        "previous_page_url": null,
+        "next_page_url": null
+    }
+}

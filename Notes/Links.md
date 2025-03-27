@@ -15,6 +15,7 @@
 - [Microsoft Copilot Article](https://www.techtarget.com/searchdatamanagement/tip/How-to-use-Microsoft-Copilot-in-Power-BI)
 - [DataLemur Practice Interview Questions](https://datalemur.com/questions)
 - [DataLemur Python Practice Example](https://datalemur.com/questions/python-pascals-triangle)
+- [Credly Badges](https://www.credly.com/users/alex-munger.3a168db4)
 
 ## VSCode Shortcuts
 
