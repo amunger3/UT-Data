@@ -10,16 +10,21 @@
 - [PowerShell User Docs](https://github.com/ab14jain/PowerShell)
 - [DAX Syntax Cheatsheets](https://thedataschool.co.uk/rosh-khan/dax-cheat-sheet-for-beginners/)
 - [Data Analyst Salaries](https://builtin.com/salaries)
-- [VSCode Wokspace Settings](https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/)
+- [VSCode Workspace Settings](https://vscode-docs.readthedocs.io/en/stable/customization/userandworkspace/)
 - [PowerBI SWITCH Statement](https://www.datacamp.com/tutorial/switch-in-dax-for-power-bi)
 - [Microsoft Copilot Article](https://www.techtarget.com/searchdatamanagement/tip/How-to-use-Microsoft-Copilot-in-Power-BI)
 - [DataLemur Practice Interview Questions](https://datalemur.com/questions)
 - [DataLemur Python Practice Example](https://datalemur.com/questions/python-pascals-triangle)
 - [Credly Badges](https://www.credly.com/users/alex-munger.3a168db4)
+- [PowerBI Certification Exam Discussion](https://www.reddit.com/r/PowerBI/comments/11m7e6s/power_bi_data_analyst_pl300_exam_what_is_it_like/?rdt=39857)
+- [Random Sample Data](https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/orders.csv) (The GitHub repo might have more useful sample data)
+- [PowerBI Row Level Security](https://learn.microsoft.com/en-us/fabric/security/service-admin-row-level-security)
+- [PowerBI ]
 
 ## VSCode Shortcuts
 
 - ctrl-k v (Open Markdown Preview)
+- alt-space (Windows PowerTools)
 
 ## Contacts
 
@@ -29,3 +34,6 @@
 ## Job Application Links
 
 - [Renfro Cleveland](https://www.paycomonline.net/v4/ats/web.php/application/MyApplications#!applications)
+- [Unum Applications](https://unum.wd1.myworkdayjobs.com/en-US/External/userHome?Job_Application_ID=JOB_APPLICATION-3-1086456)
+- [DataAnnotation Account](https://app.dataannotation.tech/workers/tasks/6e57ab1c-ec8b-4ae3-acdc-326418cd2f22?task_response_id=90ad52fb-e5f9-49d1-8b64-2a512cc83e31)
+- [My Jobs - Indeed](https://myjobs.indeed.com/applied?co=US&hl=en_US&tk=1inha1s9fg8gt801&from=_atweb_indapply-myJobsPromo-SmartApply)

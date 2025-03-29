@@ -235,3 +235,26 @@ RETURN
 - Need to somehow "signup with a work email" to download 60 day trial of Microsoft Fabric
 - [Microsoft Fabric Web](https://app.fabric.microsoft.com/home?culture=en-us&country=us&experience=fabric-developer)
 - Microsoft account: [dayana.quintanilla@chattacademy.org](mailto:dayana.quintanilla@chattacademy.org) Egnwse314!
+
+## 3/29
+
+- More Microsoft Fabric
+- Discussing importing data into PowerBI and issues
+- One more week on Fabric
+- Then another project (still PowerBI)
+- Then move into Python
+- Questions:
+- *True or False*: Power BI Desktop can connect directly to an on-premises SQL Server database without any additional configuration. False. It needs to be configured.
+- *True or False*: In Power BI, you can create calculated columns in both Power Query Editor and Data View. False, only in Query Editor.
+- *True or False*: Row-level security (RLS) in Power BI can be implemented directly in the Power BI Service without setting it up in Power BI Desktop first.
+- *True or False*: Power BI Premium capacity allows for larger dataset sizes compared to Power BI Pro. True. Power BI Premium supports larger dataset sizes, currently up to 50 GB compared to 1 GB in Power BI Pro.
+- *True or False*: When using Direct Query, all data transformations must be done at the source before connecting to Power BI. True.
+- Which of the following storage modes is NOT available in Power BI? (A) Import (B) DirectQuery (C) Composite (D) Remote. Answer: (D) Remote. You cannot store data remotely.
+- Which of the following visuals has built-in drill-down functionality by default? (A) Table (B) Matrix (C) Pie Chart (D) Gauge *(B) Matrix*
+- What is the primary purpose of using a Parameter in Power Query? (A) To create DAX measures (B) To dynamically change data sources or query elements (C) To format visuals (D) To implement row-level security *(B) To dynamically change data sources or query elements*
+- In Power BI, the *Model* view is where you create relationships between tables.
+- The *web connector* connector in Power BI allows you to connect to various websites and extract table data.
+- When you need to combine tables with the same schema, you should use the *append* operation in Power Query.
+- Which of the following is NOT a valid data category for column formatting in Power BI? (A) Web URL (B) Country/Region (C) Database Name (D) Image URL *(C) Database Name*
+- A Sankey diagram (referenced in question #48) is a specialized visualization type in Power BI that shows flows between categories by using connecting bands or ribbons. The width of these bands represents the magnitude of the flow between nodes.
+- The *Performance Analyzer* diagnostic tool in Power BI Desktop helps identify performance bottlenecks in reports.
