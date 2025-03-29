@@ -19,7 +19,8 @@
 - [PowerBI Certification Exam Discussion](https://www.reddit.com/r/PowerBI/comments/11m7e6s/power_bi_data_analyst_pl300_exam_what_is_it_like/?rdt=39857)
 - [Random Sample Data](https://raw.githubusercontent.com/MicrosoftLearning/dp-data/main/orders.csv) (The GitHub repo might have more useful sample data)
 - [PowerBI Row Level Security](https://learn.microsoft.com/en-us/fabric/security/service-admin-row-level-security)
-- [PowerBI ]
+- [Fabric Data Redundancy](https://community.fabric.microsoft.com/t5/Desktop/How-to-avoid-redundancy-in-a-double-table-relationship-scenario/td-p/2989391)
+- [PowerBI Query Folding](https://learn.microsoft.com/en-us/power-query/query-folding-basics)
 
 ## VSCode Shortcuts
 
@@ -34,6 +35,7 @@
 ## Job Application Links
 
 - [Renfro Cleveland](https://www.paycomonline.net/v4/ats/web.php/application/MyApplications#!applications)
+- [Skanska Applications](https://careers-skanska.icims.com/jobs/dashboard?hashed=-921244075)
 - [Unum Applications](https://unum.wd1.myworkdayjobs.com/en-US/External/userHome?Job_Application_ID=JOB_APPLICATION-3-1086456)
 - [DataAnnotation Account](https://app.dataannotation.tech/workers/tasks/6e57ab1c-ec8b-4ae3-acdc-326418cd2f22?task_response_id=90ad52fb-e5f9-49d1-8b64-2a512cc83e31)
 - [My Jobs - Indeed](https://myjobs.indeed.com/applied?co=US&hl=en_US&tk=1inha1s9fg8gt801&from=_atweb_indapply-myJobsPromo-SmartApply)
