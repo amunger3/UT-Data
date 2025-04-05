@@ -4,6 +4,7 @@
 
 - [UTK Quickstart](https://utk.quickstart.com/my-dashboard/#/bootcamp/0)
 - [Prentus](https://quickstart.prentus.co)
+- [Class Discord](https://discord.com/channels/1342913437122039838/1342913437122039843)
 - [Office Groupon](https://www.groupon.com/deals/license-tom-llc-1)
 - [PowerBI Intro Docs](https://monashdatafluency.github.io/Power_BI/powerbi-intro.pdf)
 - [PowerBI Official Docs](https://learn.microsoft.com/en-us/power-bi/)
@@ -29,6 +30,7 @@
 - [Skool Communities](https://www.skool.com/settings?t=communities)
 - [Microsoft Fabric Introductory 40 min Video](https://www.youtube.com/watch?v=J4i5lcROJcs)
 - [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025)
+- [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
 
 ## VSCode Shortcuts
 

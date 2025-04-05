@@ -270,3 +270,4 @@ RETURN
 - [Learning Microsoft Fabric (Main Page)](https://www.skool.com/microsoft-fabric)
 - [Learning Microsoft Fabric (Videos)](https://www.youtube.com/@LearnMicrosoftFabric)
 - [Data Witches - M365 Developer License](https://data-witches.com/2023/01/m365-developer-license-fabric/)
+- [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
