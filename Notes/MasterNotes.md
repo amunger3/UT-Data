@@ -258,3 +258,9 @@ RETURN
 - Which of the following is NOT a valid data category for column formatting in Power BI? (A) Web URL (B) Country/Region (C) Database Name (D) Image URL *(C) Database Name*
 - A Sankey diagram (referenced in question #48) is a specialized visualization type in Power BI that shows flows between categories by using connecting bands or ribbons. The width of these bands represents the magnitude of the flow between nodes.
 - The *Performance Analyzer* diagnostic tool in Power BI Desktop helps identify performance bottlenecks in reports.
+
+## 4/2
+
+- [Power BI Transitions](https://www.plainconcepts.com/transition-power-bi-fabric/)
+- [Transitionin from PowerBI to Fabric](https://powerbi.microsoft.com/en-us/blog/grace-period-for-transitioning-from-power-bi-premium-to-microsoft-fabric/)
+- [Microsoft On-Premises Data Gateway](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
