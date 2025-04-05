@@ -24,6 +24,11 @@
 - [Power BI Transitions](https://www.plainconcepts.com/transition-power-bi-fabric/)
 - [Transitionin from PowerBI to Fabric](https://powerbi.microsoft.com/en-us/blog/grace-period-for-transitioning-from-power-bi-premium-to-microsoft-fabric/)
 - [Microsoft On-Premises Data Gateway](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
+- [Learning Microsoft Fabric (Main Page)](https://www.skool.com/microsoft-fabric)
+- [Learning Microsoft Fabric (Videos)](https://www.youtube.com/@LearnMicrosoftFabric)
+- [Skool Communities](https://www.skool.com/settings?t=communities)
+- [Microsoft Fabric Introductory 40 min Video](https://www.youtube.com/watch?v=J4i5lcROJcs)
+- [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025)
 
 ## VSCode Shortcuts
 

@@ -266,3 +266,7 @@ RETURN
 - [Microsoft On-Premises Data Gateway](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
 
 ## 4/5
+
+- [Learning Microsoft Fabric (Main Page)](https://www.skool.com/microsoft-fabric)
+- [Learning Microsoft Fabric (Videos)](https://www.youtube.com/@LearnMicrosoftFabric)
+- [Data Witches - M365 Developer License](https://data-witches.com/2023/01/m365-developer-license-fabric/)
