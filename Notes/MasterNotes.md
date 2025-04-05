@@ -264,3 +264,5 @@ RETURN
 - [Power BI Transitions](https://www.plainconcepts.com/transition-power-bi-fabric/)
 - [Transitionin from PowerBI to Fabric](https://powerbi.microsoft.com/en-us/blog/grace-period-for-transitioning-from-power-bi-premium-to-microsoft-fabric/)
 - [Microsoft On-Premises Data Gateway](https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
+
+## 4/5
