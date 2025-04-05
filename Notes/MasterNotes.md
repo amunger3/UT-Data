@@ -272,3 +272,4 @@ RETURN
 - [Data Witches - M365 Developer License](https://data-witches.com/2023/01/m365-developer-license-fabric/)
 - [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
 - [Signing up for Office 365 Video](./References/Power%20BI/PowerBI.mp4)
+- Most useful programs/languages for this field: know PowerBI, Python, and SQL
