@@ -275,3 +275,7 @@ RETURN
 - Most useful programs/languages for this field: know PowerBI, Python, and SQL
 
 ## 4/9
+
+- Get data from [Kaggle](https://www.kaggle.com/search)
+- Health, Medical Insurance, fields like this
+- Project Due: *April 22* (no extensions)
