@@ -40,7 +40,7 @@
 ## Contacts
 
 - `jeff.lund@quickstart.com`
-- Calendy?
+- [Calendy](https://calendly.com/jeff-lund/datascience)
 
 ## Job Application Links
 

@@ -277,5 +277,14 @@ RETURN
 ## 4/9
 
 - Get data from [Kaggle](https://www.kaggle.com/search)
+- Get a primary and a backup dataset
 - Health, Medical Insurance, fields like this
 - Project Due: *April 22* (no extensions)
+- Interesting project, but only one table: [Data Analysis](https://www.kaggle.com/code/manarmohamed24/analysis-healthcare-dataset)
+- Search for a multi-table dataset for SQL use
+- Possiblities:
+- [Health Care Analytics](https://www.kaggle.com/datasets/abisheksudarshan/health-care-analytics)
+- [Option 2](https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey)
+- [Option 3](https://app.gigasheet.com/spreadsheet/healthcare-dataset/d06ad9e5_09cb_43c6_9dec_3af364aa8e46?_gl=1*12pici6*_gcl_au*MTEzMDQ4NTU3NS4xNzQ0MjQzODMy)
+- [Option 4](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=health)
+- [Doing this one](https://www.kaggle.com/datasets/tomaslui/healthcare-dataset)
