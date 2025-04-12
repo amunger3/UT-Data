@@ -294,3 +294,4 @@ RETURN
 - Data (CSVs) put into Final-Career-Simulation folder
 - Need to work on project this week
 - Class is just fielding questions about the project
+- Long discussion with Catlan and Mohammed [msher4ai@gmail.com](mailto:msher4ai@gmail.com) about Python
