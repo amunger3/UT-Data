@@ -288,3 +288,9 @@ RETURN
 - [Option 3](https://app.gigasheet.com/spreadsheet/healthcare-dataset/d06ad9e5_09cb_43c6_9dec_3af364aa8e46?_gl=1*12pici6*_gcl_au*MTEzMDQ4NTU3NS4xNzQ0MjQzODMy)
 - [Option 4](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=health)
 - [Doing this one](https://www.kaggle.com/datasets/tomaslui/healthcare-dataset)
+
+## 4/12
+
+- Data (CSVs) put into Final-Career-Simulation folder
+- Need to work on project this week
+- Class is just fielding questions about the project
