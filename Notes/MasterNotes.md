@@ -295,3 +295,8 @@ RETURN
 - Need to work on project this week
 - Class is just fielding questions about the project
 - Long discussion with Catlan and Mohammed [msher4ai@gmail.com](mailto:msher4ai@gmail.com) about Python
+
+## 4/16
+
+- Need to get project done this weekend
+- All tables created in SQL Server
