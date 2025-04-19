@@ -300,3 +300,7 @@ RETURN
 
 - Need to get project done this weekend
 - All tables created in SQL Server
+
+## 4/19
+
+- All tables loaded into PowerBI
