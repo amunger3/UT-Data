@@ -41,6 +41,7 @@
 
 - `jeff.lund@quickstart.com`
 - [Calendy](https://calendly.com/jeff-lund/datascience)
+- Mohammed Sherafti: `msher4ai@gmail.com`
 
 ## Job Application Links
 

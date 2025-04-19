@@ -304,3 +304,5 @@ RETURN
 ## 4/19
 
 - All tables loaded into PowerBI
+- Python practice all class
+- Loaded tables into Python, no alaysis done
