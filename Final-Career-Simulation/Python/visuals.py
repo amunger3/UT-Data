@@ -18,7 +18,7 @@ def age_hist():
     plt.xlabel('Age')
     plt.ylabel('Patients')
     plt.show()
-    plt.savefig('Visuals/age-distribution.png')
+    # plt.savefig('Visuals/age-distribution.png')
 
 # Boxplot of age by gender
 def age_box():
@@ -27,18 +27,18 @@ def age_box():
     plt.xlabel('Gender')
     plt.ylabel('Age')
     plt.show()
-    plt.savefig('Visuals/age-boxplot.png')
+    # plt.savefig('Visuals/age-boxplot.png')
 
 # Bar chart of charge by payer (still shows payer code and not category)
 def charge_by_payer():
     sns.barplot(fact_df, x='dimPayerPK', y='GrossCharge')
     plt.title('Gross Charge By Payer')
     plt.xlabel('Payer')
-    plt.ylabel('Gross Charge')
+    plt.ylabel('Gross Charge ($1,000s)')
     plt.show()
     # Shows payer category as a table, simple, if not elegant workaround
     print(dp.df_dict['payer_df'])
-    plt.savefig('Visuals/charge-by-payer.png')
+    # plt.savefig('Visuals/charge-by-payer.png')
 
 
 # Exeucte visual functions
