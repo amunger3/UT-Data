@@ -305,4 +305,8 @@ RETURN
 
 - All tables loaded into PowerBI
 - Python practice all class
-- Loaded tables into Python, no alaysis done
+- Loaded tables into Python, no analysis done
+
+## 4/23
+
+- Project finished and turned in
