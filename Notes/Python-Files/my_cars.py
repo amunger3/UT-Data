@@ -49,6 +49,8 @@ for col in numeric_columns:
 
 
 # Plots
+#plt.figure(figsize=(12,8))
+#plt.subplot(2, 2, 1)    
 
 # Scatterplot of weight vs. mpg
 fig, ax = plt.subplots()
@@ -59,7 +61,7 @@ ax.set_ylabel('MPG')
 ax.set_title('Weight vs. MPG')
 
 ax.grid(True)
-plt.show()
+#fig.add_subplot(1, 2, 1)
 
 # Boxplot of mpg by cylinder count
 fig, ax = plt.subplots()
@@ -70,8 +72,6 @@ ax.set_xlabel('Cylinder Count')
 ax.set_ylabel('MPG')
 ax.set_title('MPG by Cylinder Count')
 
-plt.show()
-
 # Histogram of horsepower
 fig, ax = plt.subplots()
 ax.hist(cars_df['hp'], bins=14, color='orange', edgecolor='black')
@@ -80,3 +80,26 @@ ax.set_ylabel('Frequency')
 ax.set_title('Histogram of Horesepower')
 
 plt.show()
+
+# Claude assisted (from chat)
+# # 3. Create a histogram of horsepower
+# sns.histplot(df['hp'], kde=True, ax=axes[2], bins=10, color='darkblue', edgecolor='black')
+# axes[2].set_title('Distribution of Horsepower', fontsize=14)
+# axes[2].set_xlabel('Horsepower', fontsize=12)
+# axes[2].set_ylabel('Frequency', fontsize=12)
+
+# # Add summary statistics
+# hp_mean = df['hp'].mean()
+# hp_median = df['hp'].median()
+# axes[2].axvline(hp_mean, color='red', linestyle='--', linewidth=2, label=f'Mean: {hp_mean:.1f}')
+# axes[2].axvline(hp_median, color='green', linestyle='-.', linewidth=2, label=f'Median: {hp_median:.1f}')
+# axes[2].legend()
+
+# # Adjust layout and display
+# plt.tight_layout()
+# plt.savefig('car_data_analysis.png', dpi=300)  # Save as high-resolution image
+# plt.show()
+
+# # Additional insights table (optional)
+# print("\nKey Statistics by Cylinder Count:")
+# print(df.groupby('cyl')[['mpg', 'hp', 'wt']].agg(['mean', 'std', 'count']))
