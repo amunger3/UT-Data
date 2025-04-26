@@ -311,3 +311,8 @@ RETURN
 
 - Project finished and turned in
 - Did a bunch of work in Python (see [here](./Python-Files/))
+
+## 4/26
+
+- Place
+- Shared documents (In [DOCX](./Instructor-Shares/DOCX/)) about seeking a career as a PowerBI Analyst
