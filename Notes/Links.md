@@ -31,6 +31,7 @@
 - [Microsoft Fabric Introductory 40 min Video](https://www.youtube.com/watch?v=J4i5lcROJcs)
 - [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025)
 - [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
+- [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## VSCode Shortcuts
 
