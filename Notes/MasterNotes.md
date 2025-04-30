@@ -319,3 +319,4 @@ RETURN
 ## 4/30
 
 - Met with Kevin before class (see [Notes](./Career/Career.md))
+- More Python and Jupyter
