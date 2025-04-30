@@ -314,5 +314,8 @@ RETURN
 
 ## 4/26
 
-- Place
 - Shared documents (In [PDF](./Instructor-Shares/PDF/)) about seeking a career as a PowerBI Analyst
+
+## 4/30
+
+- Met with Kevin before class (see [Notes](./Career/Career.md))
