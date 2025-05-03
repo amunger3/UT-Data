@@ -320,3 +320,7 @@ RETURN
 
 - Met with Kevin before class (see [Notes](./Career/Career.md))
 - More Python and Jupyter
+
+## 5/3
+
+- Have resume review session on 5/5 @ 4:30
