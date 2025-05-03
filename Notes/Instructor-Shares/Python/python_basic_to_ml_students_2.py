@@ -56,7 +56,7 @@ def generate_sample_data(n_samples=1000):
     
     # Date range
     start_date = datetime(2022, 1, 1)
-    end_date = datetime(2023, 12, 31)
+    end_date = datetime(2024, 12, 31)
     date_range = [(start_date + timedelta(days=x)) for x in range((end_date - start_date).days + 1)]
     
     # Randomly sample dates
@@ -662,4 +662,9 @@ def perform_advanced_analysis(df):
 
 
 
+my_df = generate_sample_data()
+processed_df = preprocess_data(my_df)
+correlation_matrix, customer_segments, monthly_trends, store_performance = explore_data(processed_df)
+visuals_df = create_visualizations(processed_df, correlation_matrix, customer_segments, monthly_trends, store_performance)
+analytics = perform_advanced_analysis(processed_df)
 
