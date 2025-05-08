@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.gridspec as gridspec
-from matplotlib.colors import LinearSegmentedColormap
+# from matplotlib.colors import LinearSegmentedColormap
 import seaborn as sns
 from datetime import datetime, timedelta
 import random
@@ -19,8 +19,8 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.metrics import accuracy_score, classification_report
+# from sklearn.metrics import mean_squared_error, r2_score
+# from sklearn.metrics import accuracy_score, classification_report
 from sklearn.linear_model import LinearRegression
 import os
 import warnings
@@ -60,7 +60,8 @@ def generate_sample_data(n_samples=1000):
     date_range = [(start_date + timedelta(days=x)) for x in range((end_date - start_date).days + 1)]
     
     # Randomly sample dates
-    sample_dates = sorted(random.sample(date_range, n_samples))
+    # sample_dates = sorted(random.choices(date_range, k=n_samples))
+    sample_dates = sorted([random.choice(date_range) for _ in range(n_samples)])
     
     # Generate customer IDs
     customer_ids = [f'CUST_{i:05d}' for i in range(1, 101)]
