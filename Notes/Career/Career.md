@@ -17,6 +17,25 @@
 - Use Chrome with Prentus extension when applying for jobs
 - AI Coach to help with mock interviews
 
+## 5/5 Resume-building session
+
+- 3-5 seconds spent per resume
+- Most job postings get 100s of resumes
+- Many recruiters use automated applicant tracking systems (ATS)
+- ATS screens resume - sees if you have relevant data analyst qualifications via keywords
+- "SQL", "Tableau", "Python", etc. This is how you get shortlisted
+- ATS will send "qualified" resume to recruiters
+- Recruiter will look at resume template, the Ctrl-F some keyworkds
+- If the resume is not presenting as a data analyst or a data scentist he will close the resume
+- Some will be rejected after reading summary, etc.
+- Don't need to add all experiences in detail...only "data relevant" details
+- Only go back 5 years (!)
+- Only add *highest* education or parallel education
+- Make the skill section a 3-column list
+- 2nd column: add my bootcamp projects
+- Upload the updated resume to Prentus
+- Book next appointment
+
 ## Meetings Workflow
 
 1. Career Services Orientation
