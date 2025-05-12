@@ -325,3 +325,7 @@ RETURN
 
 - Have resume review session on 5/5 @ 4:30
 - Python ML debug session (ml_basic_to_students file)
+
+## 5/10
+
+- More Python

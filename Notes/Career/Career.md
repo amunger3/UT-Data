@@ -36,13 +36,41 @@
 - Upload the updated resume to Prentus
 - Book next appointment
 
+## 5/9 Session
+
+- 2nd session
+- 3-5 seconds on resume for shortlist
+- Some resumes rejected after seeing template, some after seeing summary, that's how we get 3-5 seconds
+- Add a professional summary to present me as a relevant resource
+- Next projects
+- Next experience
+- No need to mention references
+- Other than that it looks very good
+- Remove "Career Simulation" titles
+- After making these changes, simply sumbit it for feedback
+- After this, a Linkedin review
+
+## 5/12 Session
+
+- 3rd session: "Linkedin Revew"
+- Feedback:
+- QuickStart bootcamp on top of "Education" section -- Done
+- "I believe your Linkedin profile looks good, bu *join more groups*"
+- Data Science, Machine Learning, etc.
+- Submit for review --> approve
+- Book a job search strategy session after this call
+
 ## Meetings Workflow
 
 1. Career Services Orientation
 2. Resume review/resume building (sumbit My Profile for review before booking this)
+3. Linkedin review session 5/12 at 4:30
 
 ## Job Links
 
 - [State of Tennessee](https://quickstart.prentus.co/job/1745963241314x727179611395953400)
 - [Job Search](https://www.linkedin.com/jobs/search)
 - [USI](https://jobs.usi.com/Jobs)
+- [TRG](https://www.paycomonline.net/v4/ats/web.php/Application/MyApplications#!applications)
+- [Chenega](https://careers-chenega.icims.com/jobs/dashboard?hashed=1941931649)
+

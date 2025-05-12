@@ -32,6 +32,7 @@
 - [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025)
 - [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+- [Python -> PowerBI](https://www.sqlshack.com/import-data-using-python-in-power-bi/)
 
 ## VSCode Shortcuts
 
