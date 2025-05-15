@@ -92,4 +92,4 @@
 - [UTC](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
 - [Robert Half](https://www.ziprecruiter.com/jobs/robert-half-b01da3c1/data-analyst-excel-expert-2808a483?lvk=voEZKZqtnF5ewqZ5n-QalQ.--NmyafaIjR)
 - [EPB](https://epb.hcshiring.com/)
-- [UT](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?viewBy=RECOMMENDED_JOBS&selectedFile=Alex+Munger_1747315905774)
+- [UT](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
