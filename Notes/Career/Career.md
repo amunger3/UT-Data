@@ -55,7 +55,7 @@
 - 3rd session: "Linkedin Revew"
 - Feedback:
 - QuickStart bootcamp on top of "Education" section -- Done
-- "I believe your Linkedin profile looks good, bu *join more groups*"
+- "I believe your Linkedin profile looks good, but *join more groups*"
 - Data Science, Machine Learning, etc.
 - Submit for review --> approve
 - Book a job search strategy session after this call
@@ -80,6 +80,7 @@
 1. Career Services Orientation
 2. Resume review/resume building (sumbit My Profile for review before booking this)
 3. Linkedin review session 5/12 at 4:30
+4. Job Search session 5/14
 
 ## Job Links
 
