@@ -94,3 +94,9 @@
 - [EPB](https://epb.hcshiring.com/)
 - [UT](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
 - [Galen](https://recruiting.paylocity.com/Recruiting/Jobs/All/34e445b5-8af2-4a7a-af18-483716aa65c9?source=ZipRecruiter_Feed)
+
+## Blurbs
+
+- I am interested in the field of data quality and applying my background in data science and presentation.
+
+- I have extensive experience in technical fields working with data -- backend database management as well as frontend presentation roles.
