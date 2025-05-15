@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.6)  15 MAY 2025 08:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.6)  15 MAY 2025 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -725,7 +725,7 @@ Package rerunfilecheck Info: File `cover_letter.out' has not changed.
 Here is how much of TeX's memory you used:
  13974 strings out of 473530
  234836 string characters out of 5714795
- 662868 words of memory out of 5000000
+ 662870 words of memory out of 5000000
  36956 multiletter control sequences out of 15000+600000
  598406 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -733,7 +733,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/munge/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro
 /SourceSansPro-Regular.pfb><C:/Users/munge/AppData/Local/Programs/MiKTeX/fonts/
 type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb>
-Output written on cover_letter.pdf (1 page, 126038 bytes).
+Output written on cover_letter.pdf (1 page, 125970 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
