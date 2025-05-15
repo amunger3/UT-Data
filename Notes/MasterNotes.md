@@ -329,3 +329,8 @@ RETURN
 ## 5/10
 
 - More Python
+
+## 5/14
+
+- Last class is 5/24 due to schedule change
+- PowerBI test on-site or at home (monitored) -- 30-60 questions

@@ -60,6 +60,21 @@
 - Submit for review --> approve
 - Book a job search strategy session after this call
 
+## 5/14
+
+- Job search session
+- Even "entry level" searches on LinkedIn has "experience requirements"
+- Recruiters usually don't "turn off" the position for 25-30 days even if they have enough resumes
+- If there is no "deactivation date" all job postings are posted as "entry level"
+- a. Look to see if job is "originally posted" (better) or "reposted"
+- b. Look for number of applicants. Anything over 100 there is a low chance they will get back to you
+- Indeed --> free to post on (good for startups, mid level firms). LinkedIn you have to pay to post.
+- Just Google!: "Entry level data analyst jobs", etc.
+- The "Jobs" section can be used straight from Google search
+- 7-10 positions every week
+- Add to Prentus Job Board
+- Let him know when I get an interview call
+
 ## Meetings Workflow
 
 1. Career Services Orientation
@@ -73,4 +88,6 @@
 - [USI](https://jobs.usi.com/Jobs)
 - [TRG](https://www.paycomonline.net/v4/ats/web.php/Application/MyApplications#!applications)
 - [Chenega](https://careers-chenega.icims.com/jobs/dashboard?hashed=1941931649)
-
+- [JobDiva](https://www1.jobdiva.com/portal/?a=ygjdnwl6apzmff6t82vdutfvbydrtq07d9es5jck4la1ce7huuaom4zlm4i0c94q&source=ZipRecruiter#/applications)
+- [UTC](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
+- [Robert Half](https://www.ziprecruiter.com/jobs/robert-half-b01da3c1/data-analyst-excel-expert-2808a483?lvk=voEZKZqtnF5ewqZ5n-QalQ.--NmyafaIjR)
