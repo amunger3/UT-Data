@@ -33,6 +33,7 @@
 - [End-to-End Tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/fundamentals/end-to-end-tutorials)
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
 - [Python -> PowerBI](https://www.sqlshack.com/import-data-using-python-in-power-bi/)
+- [PowerQuery M](https://learn.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 
 ## VSCode Shortcuts
 

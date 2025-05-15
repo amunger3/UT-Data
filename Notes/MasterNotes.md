@@ -334,3 +334,5 @@ RETURN
 
 - Last class is 5/24 due to schedule change
 - PowerBI test on-site or at home (monitored) -- 30-60 questions
+- Certificates nice "to get foot in the door" -- after that experience
+- Jeff has zero certificates, for example
