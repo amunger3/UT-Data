@@ -92,9 +92,11 @@
 - [JobDiva](https://www1.jobdiva.com/portal/?a=ygjdnwl6apzmff6t82vdutfvbydrtq07d9es5jck4la1ce7huuaom4zlm4i0c94q&source=ZipRecruiter#/applications)
 - [UTC](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
 - [Robert Half](https://www.ziprecruiter.com/jobs/robert-half-b01da3c1/data-analyst-excel-expert-2808a483?lvk=voEZKZqtnF5ewqZ5n-QalQ.--NmyafaIjR)
+- [Robert Half - Website](https://online.roberthalf.com/s/my-jobs?a=RH&b=&c=US&d=en_US&e=munger.alex%40gmail.com&language=en_US&redirect=false)
 - [EPB](https://epb.hcshiring.com/)
 - [UT](https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile)
-- [Galen](https://recruiting.paylocity.com/Recruiting/Jobs/All/34e445b5-8af2-4a7a-af18-483716aa65c9?source=ZipRecruiter_Feed)
+- [Galen - Rejected](https://recruiting.paylocity.com/Recruiting/Jobs/All/34e445b5-8af2-4a7a-af18-483716aa65c9?source=ZipRecruiter_Feed)
+- [Terex](https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/userHome)
 
 ## Blurbs
 
