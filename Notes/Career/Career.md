@@ -98,6 +98,9 @@
 - [Galen - Rejected](https://recruiting.paylocity.com/Recruiting/Jobs/All/34e445b5-8af2-4a7a-af18-483716aa65c9?source=ZipRecruiter_Feed)
 - [Terex](https://terex.wd1.myworkdayjobs.com/en-US/terexcareers/userHome)
 - [Mowhawk](https://career4.successfactors.com/portalcareer?company=C0014376286P&correlation_Id=88187987500&lang=en_US&clientId=jobs2web&socialApply=false&career_ns=&site=&jobPipeline=RCM+Redirect&navBarLevel=MY_PROFILE&isInternalUser=false&showAlertCreated=false&_s.crb=0jIRHOXHyJ0Bty6VJ8MuQJ%252bi%252fJFINEXfsUnUt8yYWlo%253d)
+- [Colorado](https://cu.taleo.net/careersection/2/mysubmissions.ftl?lang=en&iniurl.src=JB-10100)
+- [CommLink](https://www.paycomonline.net/v4/ats/web.php/application/MyApplications?accountPage=1#!messages-tab)
+- [ManTech](https://mantech.avature.net/en_US/careers/ProfileJobApplications)
 
 ## Blurbs
 

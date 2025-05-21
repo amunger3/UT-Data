@@ -336,3 +336,7 @@ RETURN
 - PowerBI test on-site or at home (monitored) -- 30-60 questions
 - Certificates nice "to get foot in the door" -- after that experience
 - Jeff has zero certificates, for example
+
+## 5/17
+
+- Python certificate talk
