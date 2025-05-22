@@ -34,6 +34,8 @@
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
 - [Python -> PowerBI](https://www.sqlshack.com/import-data-using-python-in-power-bi/)
 - [PowerQuery M](https://learn.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
+- [Data Lineage - IBM](https://www.ibm.com/think/topics/data-lineage)
+- [SQL Indexes](https://www.sqlshack.com/what-is-the-difference-between-clustered-and-non-clustered-indexes-in-sql-server/)
 
 ## VSCode Shortcuts
 

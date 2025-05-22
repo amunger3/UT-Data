@@ -340,3 +340,8 @@ RETURN
 ## 5/17
 
 - Python certificate talk
+
+## 5/21
+
+- Preparing for PowerBI Certificate Exam - see other specific notes [here](./Career/PowerBI-Cert.md)
+- PowerBI and Python (TOGETHER) Saturday!! *Last Class*
