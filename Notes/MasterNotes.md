@@ -345,3 +345,14 @@ RETURN
 
 - Preparing for PowerBI Certificate Exam - see other specific notes [here](./Career/PowerBI-Cert.md)
 - PowerBI and Python (TOGETHER) Saturday!! *Last Class*
+
+## 5/24
+
+- Connecting PowerBI and Python
+- [PL300 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
+- [PL300 Exam Page](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)
+- [PL300 Exam Scheduling](https://learn.microsoft.com/en-us/users/alexmunger/settings?examUrl=https%3A%2F%2Flearn.microsoft.com%2Fcredentials%2Fcertification&examUid=exam.PL-300&locale=en-us&context=exam)
+- [PearsonVUe Page](https://wsr.pearsonvue.com/testtaker/registration/SelectExamOptionsPage/MICROSOFT?conversationId=23452)
+- [PearsonVUE Checkout](https://wsr.pearsonvue.com/testtaker/checkout/OrderSummaryPage/MICROSOFT?conversationId=23452)
+- [Exam Prep](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-pl-300-prepare-the-data)
+- [Create Power BI Visuals with Python](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals)
