@@ -52,8 +52,10 @@
 
 ## Contacts
 
-- `jeff.lund@quickstart.com`
+- QuickStart -> `jeff.lund@quickstart.com`
+- Personal -> `jfflund@gmail.com`
 - [Calendy](https://calendly.com/jeff-lund/datascience)
+- Jeff Lund Cell: 605-366-5005
 - Mohammed Sherafti: `msher4ai@gmail.com`
 
 ## Job Application Links
