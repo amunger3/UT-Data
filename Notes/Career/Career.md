@@ -75,6 +75,12 @@
 - Add to Prentus Job Board
 - Let him know when I get an interview call
 
+## 6/4
+
+- Add all jobs to Prentus Job Tracker [here - link](https://quickstart.prentus.co/member/add-job).
+- USE CHROME
+- Feel free to message Kevin on Prentus
+
 ## Meetings Workflow
 
 1. Career Services Orientation
